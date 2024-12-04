@@ -1,3 +1,6 @@
 [submodule "packages/surrealigrate"]
 	path = packages/surrealigrate
 	url = https://github.com/daviddyess/surrealigrate.git
+[submodule "packages/surrealctl"]
+	path = packages/surrealctl
+	url = https://github.com/daviddyess/surrealctl.git
